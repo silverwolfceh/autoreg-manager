@@ -8,22 +8,16 @@ Chức năng chính bao gồm:
 
 *******Cài đặt
 - Tải AUTO_REG.dll và EAGetMail40.dll về máy
-- Bỏ 2 file vào all1tool với cấu trúc như sau:
-
-All1Tool_Folder
-|--All1Tool.exe
-|--EAGetMail40.dll
-|--Plugins
- |--AUTO_REG.dll
-
-- Mở All1Tool, add dại 1 site vào và chọn plugin autoreg
+- File: AUTO_REG.dll thì bỏ vào thư mục Plugins
+- File: EAGetMail40.dll thì bỏ vào thư mục Plugins và cả thư mục gốc của All1Tool
+- Mở All1Tool, add dại 1 site vào và chọn plugin ptcevolution_register_active (nằm trong PluginCustom)
 - Chạy nó thì sẽ xuất hiện một key
-- Copy key đó (ctrl + c ngay hàng đó) gửi qua yahoo, mình sẽ cấp key cho bạn.
-- Sau khi nhận được file: plugin_reg_lic.txt thì các bạn download nó và bỏ vào thư mục All1Tool (thư mục gốc có chứa All1Tool.exe)
+- Copy key đó (ctrl + c ngay hàng đó) gửi qua telegram: https://t.me/codekiemcom, chuyển 100K (giá plugin) và bạn sẽ có key.
+- Sau khi nhận được key file: plugin_reg_lic.txt thì các bạn download nó và bỏ vào thư mục gốc của All1Tool (thư mục gốc có chứa All1Tool.exe)
 
 *******Sử dụng
 Mọi khoản khác điền như lúc bạn chạy một plugins nào đó. Trừ:
-- Password2: điền nick chính của bạn (cheat ref thì phải có nick chính và hàng loạt nick phụ)
+- Password2: điền nick chính của bạn (các nick phụ sẽ đăng ký ref theo nick chính nhé)
 - Password: nên điền password của email của bạn thì plugin mới tự động kích hoạt được
 - Plugin data: điền trang referer là trang mà ptcevolution nghĩ bạn đến từ đó. Ví dụ: http://google.com, http://mmo4me.com. Nếu không điền thì nó đến từ http://legacyclix.com
 
@@ -35,12 +29,12 @@ Mọi khoản khác điền như lúc bạn chạy một plugins nào đó. Tr�
 *******Lưu ý
 - Vui lòng không dùng plugin buxhost vì nó đang phát triển
 - Plugin hiện tại detect license theo thời gian hệ điều hành được cài. Vì vậy, license sẽ bị mất khi bạn cài lại win, ghost lại win, nâng cấp hay hạ cấp win. Trong trường hợp này, license không được bảo hành và bạn phải mua lại license khác
-- Khi update, nhớ tải hết ít nhất 2 file: Auto_reg.dll và mail.dll vì chúng có liên hệ với nhau
+- Khi update, nhớ tải hết ít nhất 2 file: AUTO_REG.dll và EAGetMail40.dll vì chúng có liên hệ với nhau.
+- Bạn nhớ bật tùy chọn cho phép ứng dụng ít bảo mật login vào mail của bạn nhé (gmail)
 
 *******Liên hệ
-Facebook.Com/soibac (Online 16/24h)
-Yahoo: soibac (Ít online, hên xui)
-PM inbox mmo4me.com (Nếu nhận được sẽ trả lời)
+PM: https://mmo4me.com/members/soibac.62077/
+Telegram: https://t.me/codekiemcom
 
 XIN CÁM ƠN CÁC BẠN ĐÃ DÙNG PLUGIN. CHÚC CÁC BẠN THÀNH CÔNG VÀ KIẾM ĐƯỢC NHIỀU $$$
 
