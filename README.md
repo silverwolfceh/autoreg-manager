@@ -7,8 +7,15 @@ Chức năng chính bao gồm:
 - Tự động đăng nhập email lấy key và kích hoạt
 
 *******Cài đặt
-- Tải AUTO_REG.dll và Mail.dll về máy
-- Bỏ cả 2 file vào thư mục plugins của all1tool
+- Tải AUTO_REG.dll và EAGetMail40.dll về máy
+- Bỏ 2 file vào all1tool với cấu trúc như sau:
+  All1Tool_Folder
+  |
+  |--All1Tool.exe
+  |--EAGetMail40.dll
+  |--Plugins
+     |--AUTO_REG.dll
+   
 - Mở All1Tool, add dại 1 site vào và chọn plugin autoreg
 - Chạy nó thì sẽ xuất hiện một key
 - Copy key đó (ctrl + c ngay hàng đó) gửi qua yahoo, mình sẽ cấp key cho bạn.
