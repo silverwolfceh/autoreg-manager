@@ -10,7 +10,6 @@ Chức năng chính bao gồm:
 - Tải AUTO_REG.dll và EAGetMail40.dll về máy
 - Bỏ 2 file vào all1tool với cấu trúc như sau:
   All1Tool_Folder
-  |
   |--All1Tool.exe
   |--EAGetMail40.dll
   |--Plugins
